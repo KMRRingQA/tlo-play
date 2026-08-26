@@ -201,6 +201,22 @@ const engine = new Engine(GODOT_CONFIG);
 		setStatusMode('progress');
 		unlockThenStart();
 	}
+	const BUILD_V = '0826.2033+1509baf';
+async function _updCheck() {
+	try {
+		const r = await fetch('version.json?ts=' + Date.now(),
+			{ cache: 'no-store' });
+		const d = await r.json();
+		if (d && d.v && d.v !== BUILD_V) {
+			location.replace(location.pathname + '?v=' +
+				encodeURIComponent(d.v) + location.hash);
+		}
+	} catch (e) {}
+}
+setInterval(_updCheck, 60000);
+document.addEventListener('visibilitychange', () => {
+	if (!document.hidden) { _updCheck(); }
+});
 	async function unlockThenStart() {
 		const bad = () => { document.body.innerHTML =
 			'<div style="color:#666;font:16px system-ui;' +
