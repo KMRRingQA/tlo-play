@@ -201,7 +201,7 @@ const engine = new Engine(GODOT_CONFIG);
 		setStatusMode('progress');
 		unlockThenStart();
 	}
-	const BUILD_V = '0826.2048+1172bfa';
+	const BUILD_V = '0826.2048+1172bfab';
 async function _updCheck() {
 	try {
 		const r = await fetch('version.json?ts=' + Date.now(),
@@ -234,7 +234,7 @@ document.addEventListener('visibilitychange', () => {
 			const key = await crypto.subtle.importKey('raw', raw,
 				'AES-GCM', false, ['decrypt']);
 			const buf = new Uint8Array(await (await fetch(
-				'index.pck.enc')).arrayBuffer());
+				'index.pck.enc?v=' + BUILD_V)).arrayBuffer());
 			plain = await crypto.subtle.decrypt(
 				{ 'name': 'AES-GCM', 'iv': buf.slice(0, 12) }, key,
 				buf.slice(12));
