@@ -223,9 +223,8 @@ const engine = new Engine(GODOT_CONFIG);
 				{ 'name': 'AES-GCM', 'iv': buf.slice(0, 12) }, key,
 				buf.slice(12));
 		} catch (e) { return bad(); }
-		GODOT_CONFIG['mainPack'] = URL.createObjectURL(
-			new Blob([plain]));
 		engine.startGame({
+			'mainPack': URL.createObjectURL(new Blob([plain])),
 			'onProgress': function (current, total) {
 				if (current > 0 && total > 0) {
 					statusProgress.value = current;
