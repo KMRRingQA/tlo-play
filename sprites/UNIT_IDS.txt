@@ -1,0 +1,214 @@
+Acolyte
+Actuator
+Adjutant
+Aeon of the First Dawn
+Aeonlight Colossus
+Agony-Bound Colossus
+Archer
+Archscribe Veyla
+Assembly Frame
+Assembly Rig
+Athenaeum of Ages
+Axe Warrior
+Ballista
+Bandit
+Barricade
+Basalt Millennium
+Battering Ram
+Blast Furnace
+Blood Imp
+Bolt Pillar
+Bombard
+Bound Martyr
+Broodfiend
+Burnout Battery
+Calibrated Marking
+Caltrops
+Capacitor Bank
+Carapace of Instants
+Caravan
+Cascade Hammer
+Cavalry
+Centurion
+Chaplain
+Cinderfiend
+Citadel
+Claim Charge
+Clockwind Adept
+Cocoon
+Coinscribe
+Condenser Coil
+Conduit
+Conscript
+Conscription Camp
+Covenant Scribe
+Crossbowman
+Crossfeed Beam
+Crusher
+Curse Ward
+Dart Crank
+Defensive Emplacement
+Demolition Charge
+Displaced Citizens
+Drafting Table
+Dragon Broodmother
+Drake
+Dynamo
+Egg Cluster
+Embalmed Noble
+Engineer
+Eris
+Exchanger
+Fettered Giant
+Field Medic
+Fiend
+Fire Dragon
+Fitter
+Flagellant
+Flashpan Turret
+Flywheel
+Fog Knot
+Foothold
+Forged Imp
+Gholgoth the Insatiable
+Glass Aquifer
+Glyphling
+Gormauth, Lord of the Toll
+Grave Scrivener
+Gravesmith
+Grunt
+Guard
+Hallmark Engine
+Harpy
+Hauler
+Hellbrand Fiend
+Herald of What Comes
+Horse Archer
+Illuminator
+Immolation Core
+Imp
+Imperial Standard
+Infiltrator
+Inkwright
+Iron Revenant
+Kheshig
+Kiln
+Kindling Wretch
+Knight
+Krieg
+Lamb
+Lancer
+Legacy Line
+Living Barricade
+Longbowman
+Magma Rager
+Mana Shield
+Mana Vault Shard
+Mangonel
+Marksman
+Maw Amalgam
+Miasma Reactor
+Minor Imp
+Mirrorglass Ward
+Moloch
+Monolith of the Unborn Hour
+Mortifex
+Muster Sergeant
+Omega Lance
+Orc Brute
+Orc Raider
+Orc Wolf-Runner
+Ouroboros, End and Origin
+Outpost
+Overpressure Cannon
+Overwound Crusher
+Pactweaver
+Parts Depot
+Piston Ram
+Piston Tower
+Pit Cleaver
+Pit Priest
+Poison Water Supply
+Pressure Plate
+Pressure Valve
+Prism Lancer
+Quartermaster
+Railspike
+Reaver
+Reclaimer
+Refractor
+Reshaped Demon
+Ring Cannon
+Rising Cadence
+Ruthless Imperialist
+Sabotage
+Salvage Mill
+Sand-Sworn Sentinel
+Sapper
+Schematic Engine
+Scout
+Scrap Trap
+Scrapling
+Sereth
+Shadow of %s
+Shield Battery
+Shieldwright
+Siege Workshop
+Sin-Eater
+Siren Harpy
+Skarvyx the Carrion-Winged
+Soldier
+Sparkling
+Sparkscribe
+Spearman
+Spinning Blade
+Splitling
+Spore Bloater
+Spore Bud
+Spore Shambler
+Springald
+Staging Platform
+Star-Counting Child
+Starbow Aeon
+Static Engine
+Steppe Rider
+Stormborn Aeon
+Stormscribe
+Supply Chain
+Surge Array
+Surveyor
+Tactician
+Tally Engine
+Terminus Coil
+The Author of Hours
+The Hourglass Broker
+The Last Aeon
+The Long Watch
+The Orrery
+The Patient Vein
+The Perfected One
+The Ritualist
+The Slumbering Gate
+The Still Reservoir
+The Storm That Waits
+The Sum of All Hours
+The Tallyman
+The Unspent Aeon
+Thorne
+Time Vault
+Time Wizard
+Tollgate
+Tomb Chanter
+Tomb Servant
+Training Camp
+Trebuchet
+Vanguard
+Veskarn the Manifold
+Veteran Casern
+Vhorzul the Usurper
+Wall
+Warden Bow
+Warden of Hours
+Whelp
+Winding Engine
+Workbench
